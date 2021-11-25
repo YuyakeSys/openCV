@@ -1,0 +1,2 @@
+# openCV
+NUS summer school
